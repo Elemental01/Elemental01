@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elemental01
 - 👀 I’m interested in ... Cyber Security and Data Science
-- 🌱 I’m currently learning ...Machine learning Web Devlopment and a Cyber Security enthusiast
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning ...BlockChain and Web Devlopment 
+- 💞️ I’m looking to collaborate on building Smart Contracts 
 - 📫 How to reach me ... email - raiharsh022@gmail.com ,instagram-raiharsh022
 
 <!---
