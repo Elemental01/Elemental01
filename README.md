@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elemental01" alt="elemental01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elemental01" target="blank"><img src="https://img.shields.io/twitter/follow/elemental01?logo=twitter&style=for-the-badge" alt="elemental01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itselemental01" target="blank"><img src="https://img.shields.io/twitter/follow/itselemental01?logo=twitter&style=for-the-badge" alt="itselemental01" /></a> </p>
 
 - 🔭 I’m currently working on **Web Portfolio**
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
-- 🤝 I’m looking for help with **Third Web Blockchain**
+- 🤝 I’m looking for help with **Third Web**
 
 - 📫 How to reach me **raiharsh022@gmail.com**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/elemental01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elemental01" height="30" width="40" /></a>
+<a href="https://twitter.com/itselemental01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itselemental01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh rai" height="30" width="40" /></a>
 <a href="https://instagram.com/raiharsh022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raiharsh022" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_0810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_0810" height="30" width="40" /></a>
