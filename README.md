@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elemental01&show_icons=true&locale=en&layout=compact" alt="elemental01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elemental01&" alt="elemental01" /></p>
-<h2>Ohh!! Did I tell You "I use Arch btw" 🐧 </h2>
+<h2>Ohh!! Did I tell You "I use Arch btw" 🐧</h2>
