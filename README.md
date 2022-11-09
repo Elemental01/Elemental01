@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/itselemental01" target="blank"><img src="https://img.shields.io/twitter/follow/itselemental01?logo=twitter&style=for-the-badge" alt="itselemental01" /></a> </p>
 
-- 🔭 I’m currently working on **Web Portfolio**
+- 🔭 I’m currently working on **Web Designing**
 
-- 🌱 I’m currently learning **Vanilla JavaScript and React**
+- 🌱 I’m currently learning **Vanilla JavaScript and ReactJS**
 
 - 👯 I’m looking to collaborate on **Front End projects**
 
